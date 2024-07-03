@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">MyWeather App</string>
+    <string name="button2">Button2</string>
+</resources>
